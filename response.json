@@ -1,0 +1,24 @@
+{
+	"data": {
+		"flash": {
+			"res": "<speak>here are the top marketing k p i's <break time=\"1s\"/> Market Share is up by 50 basis points to 15.1% <break time=\"0.5s\"/>mainly due to last month’s offline Ad-Campaign. <break time=\"1s\"/>Online Conversion has increased by 2% <break time=\"1s\"/>Brand Momentum is doing well <break time=\"0.2s\"/>as it has increased by 8%. <break time=\"1s\"/>Customer Churn Rate on the App is taking a hit as it has increased by 12%. The App store rating has come down to 3.8. You may need to look into the new version we launched last month. <break time=\"1s\"/>Total Upsell revenue has increased by 2% due to email campaign <break time=\"2s\"/>To hear again, please say flash briefing, or say More for other options </speak>",
+			"img": "https://s3.amazonaws.com/osmosis-sales-images/Scr-01.png",
+			"imgRes": "  "
+		},
+		"conversion": {
+			"res": "<speak>here are the top conversion related k p i's <break time=\"1s\"/> Brick and Mortar Sale has increased by 3.5% and stands at 15.1%<break time=\"1s\"/>  Display Ad conversion has grown by 8% and stands at 2%.Organic search conversion has grown by 2%.<break time=\"1s\"/>  Top contributors in conversion are: PPC-35%, Referral-20%, Email and SMS-15%.<break time=\"1s\"/>   Bounce Rate on the App has increased by 15%. The new version seems to be the cause. Please look into it.<break time=\"1s\"/>  Social Buzz is doing better. It is 11.7% , up by 4% from last month.<break time=\"2s\"/>   To hear again, please say conversion or say More for other options </speak>",
+			"img": "https://s3.amazonaws.com/osmosis-sales-images/Scr-02.png",
+			"imgRes": " "
+		},
+		"cltv": {
+			"res": "<speak>here are the top customer life time value related k p i's<break time=\"1s\"/>Customer Churn Rate on the App is taking a hit <break time=\"0.3s\"/> as it has increased by 12%. You may need to look into the new version.<break time=\"1s\"/>Net Promoters Score has improved and stands at 8.3 when compared to 8.0 in the last month.<break time=\"1s\"/>The average CLTV has dipped by 2%. Major reason could be last Quarter’s spiked average spending due to Black Friday.<break time=\"1s\"/>Online channel is still the leading growth contributor in ‘Average Customer Spend’ <break time=\"0.2s\"/> and <break time=\"0.2s\"/> has increased to 38%.<break time=\"1s\"/> Top 3 categories with maximum CLTV are: Eco Friendly, Fragrance Free and Cleaning Accessories.<break time=\"2s\"/>To hear again, please say c l t v  , or say More for other options</speak>",
+			"img": "https://s3.amazonaws.com/osmosis-sales-images/Scr-03.png",
+			"imgRes": " "
+		},
+		"cross": {
+			"res": "<speak>here are the top cross sell and upsell related k p i's<break time=\"1s\"/>Total Upsell revenue has increased by 5% and stands at $84 Million when compared to last months $80 Million and<break time=\"0.2s\"/> the reason could be the seasonal discounts offered this month.<break time=\"1s\"/>There is an increase of 4% in Average Basket Size and this could be due to the trade-promotion.<break time=\"1s\"/>Offline Upsell Profitability has reduced by 9.4% due to the additional promotional discounts offered at the P O S last month.<break time=\"1s\"/>Online Cross-Sell Revenue has reduced by 7%. You may look into the amended recommendation logic.<break time=\"1s\"/>Despite reduction in Online revenue, the Total Cross-Sell revenue remains the same as that in the last month<break time=\"0.2s\"/> which was $56 Million.<break time=\"2s\"/>To hear again, please say cross or upsell ,or say More for other options</speak>",
+			"img": "https://s3.amazonaws.com/osmosis-sales-images/Scr-04.png",
+			"imgRes": " "
+		}
+	}
+}
